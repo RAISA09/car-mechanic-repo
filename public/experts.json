@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/th121vX/mechanic-1.jpg",
+        "name": "Andrew Smith",
+        "expertize": "Engine Experts"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/bvxMjnP/mechanic-2.jpg",
+        "name": "Jhonty Roads",
+        "expertize": "Car Paint Experts"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/pws99cz/mechanic-3.jpg",
+        "name": "Marhan Gils",
+        "expertize": "Polish Experts"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/0F4G60j/mechanic-4.jpg",
+        "name": "Virat Kholi",
+        "expertize": "Bad Luck Expert"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/PNtXr2q/mechanic-5.jpg",
+        "name": "Chrish Gayle",
+        "expertize": "Sixers Experts"
+    }
+]

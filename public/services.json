@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Engine Diagnostic",
+        "price": 2000,
+        "describtion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In harum vel ex atque ducimus suscipit, ipsa delectus quo provident corporis!",
+        "img": "https://i.ibb.co/VmWMffs/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Repair Tair",
+        "price": 500,
+        "describtion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In harum vel ex atque ducimus suscipit, ipsa delectus quo provident corporis!",
+        "img": "https://i.ibb.co/XFxnmxB/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Engine Movile Point Checking",
+        "price": 1000,
+        "describtion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In harum vel ex atque ducimus suscipit, ipsa delectus quo provident corporis!",
+        "img": "https://i.ibb.co/qB5wQH7/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Engine Parts Checking",
+        "price": 2300,
+        "describtion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In harum vel ex atque ducimus suscipit, ipsa delectus quo provident corporis!",
+        "img": "https://i.ibb.co/09Wv7cf/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Car Print",
+        "price": 6000,
+        "describtion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In harum vel ex atque ducimus suscipit, ipsa delectus quo provident corporis!",
+        "img": "https://i.ibb.co/znFYJtc/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Engine Diagnostic",
+        "price": 2000,
+        "describtion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In harum vel ex atque ducimus suscipit, ipsa delectus quo provident corporis!",
+        "img": "https://i.ibb.co/VQBZ4nc/6.jpg"
+    }
+]
